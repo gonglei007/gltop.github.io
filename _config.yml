@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: benbalter/retlab
 title: GLTOP游戏开发
 description: Bookmark this to keep an eye on my project updates!
